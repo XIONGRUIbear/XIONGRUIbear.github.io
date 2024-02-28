@@ -44,7 +44,6 @@ sections:
       username: admin
 
   - block: markdown
-    id: publications
     content:
       title: Publications
       subtitle: Working Papers
@@ -54,6 +53,7 @@ sections:
      columns: '2'
 
   - block: contact
+    id: contact
     content:
       title: Contact
       subtitle:
