@@ -54,16 +54,8 @@ sections:
           - publications.md
     design:
      view: compact
-     view: showcase
+     view: citation
      columns: '2'
-
-  - block: markdown
-    id: section-1
-    content: content/home/presentations.md
-    design:
-      view: compact
-      view: showcase
-      columns: '2'
 
   - block: contact
     id: contact
