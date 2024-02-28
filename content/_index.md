@@ -51,6 +51,16 @@ sections:
      view: compact
      columns: '2'
 
+  - block: markdown
+    content:
+      title: Publications
+      filters:
+        folders:
+          - home\publications.md
+    design:
+     view: compact
+     columns: '2'
+
   - block: contact
     id: contact
     content:
