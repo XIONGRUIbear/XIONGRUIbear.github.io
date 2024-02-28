@@ -61,7 +61,7 @@ sections:
         files:
           - publications.md
     design:
-    view: showcase
+     view: compact
      columns: '2'
 
   - block: contact
