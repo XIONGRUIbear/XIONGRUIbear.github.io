@@ -51,6 +51,17 @@ sections:
      view: compact
      columns: '2'
 
+  - block: collection
+    id: publications
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - home
+    design:
+      columns: '2'
+      view: compact
+
   - block: contact
     id: contact
     content:
