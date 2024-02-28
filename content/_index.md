@@ -68,7 +68,10 @@ sections:
           - home
         files:
           - awards.md
-        featured_only: true
+        default_button_index: 0
+        buttons:
+        - name: All
+          tag: '*'
     design:
      view: compact
      view: showcase
