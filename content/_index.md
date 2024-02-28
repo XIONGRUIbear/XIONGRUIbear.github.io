@@ -62,6 +62,7 @@ sections:
           - publications.md
     design:
      view: compact
+     view: showcase
      columns: '2'
 
   - block: contact
