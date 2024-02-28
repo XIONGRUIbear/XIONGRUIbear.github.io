@@ -43,18 +43,14 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: collection
-    id: publications
+  - block: publications
     content:
       title: Publications
-    design:
-     view: compact
-     columns: '2'
-
-  - block: accomplishments
-    id: awards
-    content:
-      title: Funds & Awards
+      subtitle: Working Papers
+       filters:
+        folders:
+          - publications
+        exclude_featured: true
     design:
      view: compact
      columns: '2'
@@ -71,8 +67,7 @@ sections:
         postcode: '999077'
         country: China
         country_code: CN
-      # Automatically link email and phone or display as text?
-
     design:
+      view: compact
       columns: '2'
 ---
