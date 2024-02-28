@@ -51,8 +51,8 @@ sections:
      view: compact
      columns: '2'
 
-  - block: blank
-    id: teaching
+  - block: teaching
+    id: blank
     content:
       title: Teaching Experience
     design:
