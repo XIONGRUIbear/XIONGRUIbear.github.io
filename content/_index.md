@@ -44,13 +44,10 @@ sections:
       username: admin
 
   - block: markdown
+    id: publications
     content:
       title: Publications
-      subtitle: Working Papers
-       filters:
-        folders:
-          - publications
-        exclude_featured: true
+      
     design:
      view: compact
      columns: '2'
