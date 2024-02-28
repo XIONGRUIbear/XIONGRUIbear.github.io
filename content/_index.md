@@ -56,7 +56,7 @@ sections:
       title: Publications
       filters:
         folders:
-          - home\publications.md
+          - home/publications.md
     design:
      view: compact
      columns: '2'
