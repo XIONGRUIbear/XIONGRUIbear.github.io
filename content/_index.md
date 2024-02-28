@@ -57,7 +57,7 @@ sections:
      view: citation
      columns: '2'
 
-  - block: collection
+  - block: accomplishments
     id: awards
     content:
       title: Funds & Awards
