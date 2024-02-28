@@ -43,14 +43,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: markdown
-    content:
-      title: Publications
-      text: Xiong, R., & Sun, H. The Entrepreneurship Ecosystem Structure and its Impact on Entrepreneurship:A Sequential Exploration from Entrepreneurs’ Perspective. Entrepreneurship Theory and Practice. (Submitted).
-    design:
-     view: compact
-     columns: '2'
-
   - block: collection
     id: publications
     content:
@@ -65,6 +57,10 @@ sections:
      view: showcase
      columns: '2'
 
+  - block: markdown
+    id: section-1
+    content: content/home/presentations.md
+    
   - block: contact
     id: contact
     content:
