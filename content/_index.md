@@ -54,7 +54,8 @@ sections:
           - publications.md
     design:
      view: compact
-     view: citation
+     view: showcase
+     flip_alt_rows: true
      columns: '2'
 
   - block: accomplishments
@@ -69,6 +70,7 @@ sections:
     design:
      view: compact
      view: showcase
+     flip_alt_rows: true
      columns: '2'
 
   - block: contact
