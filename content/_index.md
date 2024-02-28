@@ -51,7 +51,7 @@ sections:
      view: compact
      columns: '2'
 
-  - block: publications
+  - block: collection
     id: publications
     content:
       title: publications
