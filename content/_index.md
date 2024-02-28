@@ -51,14 +51,18 @@ sections:
      view: compact
      columns: '2'
 
-  - block: markdown
+  - block: collection
+    id: publications
     content:
       title: Publications
       filters:
         folders:
-          - home/publications.md
+          - home
+        files:
+          - publications.md
     design:
-     view: compact
+    view: showcase
+      flip_alt_rows: true
      columns: '2'
 
   - block: contact
