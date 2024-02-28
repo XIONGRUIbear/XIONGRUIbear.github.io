@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Working paper"
 authors:
 - admin
 - Robert Ford
