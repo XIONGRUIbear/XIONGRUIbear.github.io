@@ -51,10 +51,10 @@ sections:
      view: compact
      columns: '2'
 
-  - block: collection
-    id: publications
+  - block: blank
+    id: teaching
     content:
-      title: Presentations
+      title: Teaching Experience
     design:
      view: compact
      columns: '2'
