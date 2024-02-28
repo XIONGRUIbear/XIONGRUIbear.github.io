@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: My page
+title: ''
 date: 2022-10-24
 type: landing
 
@@ -59,14 +59,13 @@ sections:
      columns: '2'
 
   - block: markdown
-    id: awards
     content:
       title: Funds & Awards
       subtitle:
 
-date_format: Jan 2006
+      date_format: Jan 2006
 
-item:
+      item:
 
   - organization: City University of Hong Kong
     date_start: '2020-11-01'
