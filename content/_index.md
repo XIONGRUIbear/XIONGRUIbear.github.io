@@ -52,9 +52,10 @@ sections:
           - home
         files:
           - publications.md
+        exclude_featured: true
     design:
      view: compact
-     view: showcase
+     view: citation
      flip_alt_rows: true
      columns: '2'
 
@@ -68,10 +69,7 @@ sections:
           - home
         files:
           - awards.md
-        default_button_index: 0
-        buttons:
-        - name: All
-          tag: '*'
+        exclude_featured: true
     design:
      view: compact
      view: showcase
