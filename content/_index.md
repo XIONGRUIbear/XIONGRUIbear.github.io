@@ -54,7 +54,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent & Upcoming Talks
+      title: publications
       filters:
         folders:
           - home
