@@ -68,10 +68,17 @@ sections:
           - home
         files:
           - awards.md
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
     design:
      view: compact
      view: showcase
-     flip_alt_rows: true
+     flip_alt_rows: false
      columns: '2'
 
   - block: contact
