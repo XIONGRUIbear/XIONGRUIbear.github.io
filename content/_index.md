@@ -62,6 +62,7 @@ sections:
     id: awards
     content:
       title: Funds & Awards
+      text: ''
       filters:
         folders:
           - home
