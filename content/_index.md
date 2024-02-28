@@ -51,10 +51,10 @@ sections:
      view: compact
      columns: '2'
 
-  - block: blank
-    id: teaching
+  - block: accomplishments
+    id: awards
     content:
-      title: Teaching Experience
+      title: Funds & Awards
     design:
      view: compact
      columns: '2'
