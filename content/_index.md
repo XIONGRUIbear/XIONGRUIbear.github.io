@@ -48,7 +48,7 @@ sections:
     content:
       title: Publications
       subtitle: Working Papers
-      text: Xiong, R., & Sun, H. The Entrepreneurship Ecosystem Structure and its Impact on Entrepreneurship: A Sequential Exploration from Entrepreneurs’ Perspective. Entrepreneurship Theory and Practice. (Submitted).
+      text: Xiong, R., & Sun, H. The Entrepreneurship Ecosystem Structure and its Impact on Entrepreneurship':' A Sequential Exploration from Entrepreneurs’ Perspective. Entrepreneurship Theory and Practice. (Submitted).
     design:
      view: compact
      columns: '2'
