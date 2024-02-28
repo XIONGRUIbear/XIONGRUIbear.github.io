@@ -62,7 +62,6 @@ sections:
           - publications.md
     design:
     view: showcase
-      flip_alt_rows: true
      columns: '2'
 
   - block: contact
