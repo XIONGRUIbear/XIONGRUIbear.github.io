@@ -58,7 +58,7 @@ sections:
      flip_alt_rows: true
      columns: '2'
 
-  - block: accomplishments
+  - block: markdown
     id: awards
     content:
       title: Funds & Awards
