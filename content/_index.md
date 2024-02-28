@@ -68,13 +68,7 @@ sections:
           - home
         files:
           - awards.md
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
+        featured_only: true
     design:
      view: compact
      view: showcase
