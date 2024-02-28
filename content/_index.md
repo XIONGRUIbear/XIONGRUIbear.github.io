@@ -51,6 +51,13 @@ sections:
      view: compact
      columns: '2'
 
+  - block: blank
+    id: teaching
+    content:
+      title: Teaching Experience
+    design:
+     view: compact
+     columns: '2'
 
   - block: contact
     id: contact
