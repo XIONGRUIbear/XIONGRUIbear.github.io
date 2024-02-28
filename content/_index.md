@@ -51,16 +51,6 @@ sections:
      view: compact
      columns: '2'
 
-  - block: collection
-    id: publications
-    content:
-      title: publications
-      filters:
-        folders:
-          - home
-    design:
-      columns: '2'
-      view: compact
 
   - block: contact
     id: contact
