@@ -58,6 +58,21 @@ sections:
      flip_alt_rows: true
      columns: '2'
 
+  - block: blank
+    id: teaching
+    content:
+      title: Teaching Experience
+      filters:
+        folders:
+          - home
+        files:
+          - teaching.md
+    design:
+     view: compact
+     view: showcase
+     flip_alt_rows: true
+     columns: '2'
+
   - block: markdown
     id: awards
     content:
