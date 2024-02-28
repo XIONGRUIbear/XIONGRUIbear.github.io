@@ -57,6 +57,20 @@ sections:
      view: citation
      columns: '2'
 
+  - block: collection
+    id: awards
+    content:
+      title: Funds & Awards
+      filters:
+        folders:
+          - home
+        files:
+          - awards.md
+    design:
+     view: compact
+     view: showcase
+     columns: '2'
+
   - block: contact
     id: contact
     content:
