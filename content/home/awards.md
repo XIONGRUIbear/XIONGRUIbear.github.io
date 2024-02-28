@@ -13,32 +13,10 @@ weight: 60
 title: 'Funds & Awards'
 subtitle:
 
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  # - certificate_url: https://www.edx.org
-  #   date_end: ''
-  #   date_start: '2021-01-01'
-  #   description: Formulated informed blockchain models, hypotheses, and use cases.
-  #   organization: edX
-  #   organization_url: https://www.edx.org
-  #   title: Blockchain Fundamentals
-  #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  # - organization: Vanderbilt Univeristy
-  #   date_start: '2022-06-01'
-  #   description: 'Fellowship for Ph.D. study at Vanderbilt University (32500$/year)'
-  #   title: Research Fellowship from Defense Advanced Research Projects Agency (DARPA) 
-  # - organization: Duke Univeristy
-  #   date_start: '2021-07-01'
-  #   description: 'Fellowship for research at Duke University ($36000/year)'
-  #   title: Research Fellowship from National Institutes of Health (NIH)
+
   - organization: City University of Hong Kong
     date_start: '2020-11-01'
     description: 'Scholarship for outstanding students'
