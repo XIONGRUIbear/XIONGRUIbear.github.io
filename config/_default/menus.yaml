@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: 'ƒ'
     weight: 10
   - name: Publications
     url: '#publications'
@@ -23,7 +23,7 @@ main:
     url: '#contact'
     weight: 60
   - name: CV
-    url: '#cv'
+    url: uploads/resume.pdf
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
