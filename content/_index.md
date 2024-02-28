@@ -44,9 +44,6 @@ sections:
       username: admin
 
   - block: contact
-    id: contact
-    content:
-      title: Contact
       subtitle:
       email: ruixiong2-c@my.cityu.edu.hk
       phone: +852 96741822
