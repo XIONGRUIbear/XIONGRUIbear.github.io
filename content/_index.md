@@ -43,11 +43,12 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: collection
+  - block: publicationss
     id: publications
     content:
       title: Publications
     design:
+     view: compact
      columns: '2'
 
   - block: contact
