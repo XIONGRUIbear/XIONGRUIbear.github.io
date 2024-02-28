@@ -55,4 +55,8 @@ sections:
         postcode: '999077'
         country: China
         country_code: CN
+      # Automatically link email and phone or display as text?
 
+    design:
+      columns: '2'
+---
