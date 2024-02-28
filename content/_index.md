@@ -52,7 +52,6 @@ sections:
           - home
         files:
           - publications.md
-        exclude_featured: true
     design:
      view: compact
      view: citation
@@ -63,13 +62,10 @@ sections:
     id: awards
     content:
       title: Funds & Awards
-      text: ''
       filters:
         folders:
           - home
-        files:
-          - awards.md
-        exclude_featured: true
+
     design:
      view: compact
      view: showcase
