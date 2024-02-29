@@ -51,7 +51,7 @@ sections:
         folders:
           - home
         files:
-          - publications.md
+          - publications
     design:
      view: compact
      view: showcase
