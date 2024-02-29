@@ -77,7 +77,7 @@ sections:
     content:
       title: Funds & Awards
       subtitle:
-
+      date_format: Jan 2006
       item:
         - organization: City University of Hong Kong
           date_start: '2020-11-01'
