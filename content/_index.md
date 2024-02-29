@@ -48,10 +48,12 @@ sections:
     content:
       title: Publications
       items:
-      title: working
-      - filters:
+      - title: working
+        filters:
         folders:
           - publication
+      - title: non
+        text: ssdasd
 
     design:
       columns: '2'
