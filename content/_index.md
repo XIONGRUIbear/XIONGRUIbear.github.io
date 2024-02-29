@@ -43,6 +43,16 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
+  - block: collection
+    content:
+      title: Recent Publications
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
 
   - block: collection
     id: publications
@@ -72,7 +82,7 @@ sections:
      view: showcase
      columns: '2'
  
- 
+
   - block: accomplishments
     content:
       title: Funds & Awards
