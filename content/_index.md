@@ -84,6 +84,7 @@ sections:
  
 
   - block: accomplishments
+    id: awards
     content:
       title: Funds & Awards
       subtitle:
