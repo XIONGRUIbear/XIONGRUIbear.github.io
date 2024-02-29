@@ -82,38 +82,6 @@ sections:
           date_start: '2020-11-01'
           description: 'Scholarship for outstanding students'
           title: MSEM Entrance Scholarship
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
-    design:
-      columns: '2'
-
-  - block: markdown
-    id: awards
-    content:
-      title: Funds & Awards
-      subtitle:
-      date_format: Jan 2006
-      item:
-        - organization: City University of Hong Kong
-          date_start: '2020-11-01'
-          description: 'Scholarship for outstanding students'
-          title: MSEM Entrance Scholarship
         - organization: Xi'an Jiaotong University
           date_start: '2020-06-01'
           description: 'Student award for outstanding graduates'
@@ -135,8 +103,7 @@ sections:
           title: Siyuan Scholarship
           description: 'Scholarship for outstanding students'
     design:
-     view: compact
-     columns: '2'
+      columns: '2'
 
   - block: contact
     id: contact
