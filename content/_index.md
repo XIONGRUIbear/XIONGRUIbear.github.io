@@ -46,18 +46,14 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Contact
-      subtitle:
-      email: ruixiong2-c@my.cityu.edu.hk
-      phone: +852 96741822
-      address:
-        street: Tat Chee Avenue
-        city: Hong Kong
-        postcode: '999077'
-        country: China
-        country_code: CN
+      title: Publications
+      filters:
+        folders:
+          - home
+
     design:
      view: compact
+     view: showcase
      flip_alt_rows: true
      columns: '2'
 
