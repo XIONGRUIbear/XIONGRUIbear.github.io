@@ -47,7 +47,9 @@ sections:
     id: publications
     content:
       title: Publications
-      filters:
+      items:
+      title: working
+      - filters:
         folders:
           - publication
 
@@ -65,7 +67,7 @@ sections:
 
     design:
       columns: '2'
-      view: citation
+
 
   - block: accomplishments
     id: awards
