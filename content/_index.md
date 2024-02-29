@@ -57,7 +57,7 @@ sections:
      flip_alt_rows: true
      columns: '2'
 
-  - block: collection
+  - block: markdown
     id: teaching
     content:
       title: Teaching Experience
