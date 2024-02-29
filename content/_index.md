@@ -58,7 +58,7 @@ sections:
      flip_alt_rows: true
      columns: '2'
 
-  - block: blank
+  - block: collection
     id: teaching
     content:
       title: Teaching Experience
@@ -107,5 +107,22 @@ sections:
     design:
      view: compact
      columns: '2'
+
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      email: ruixiong2-c@my.cityu.edu.hk
+      phone: +852 96741822
+      address:
+        street: Tat Chee Avenue
+        city: Hong Kong
+        postcode: '999077'
+        country: China
+        country_code: CN
+    design:
+      view: compact
+      columns: '2'
 
 ---
