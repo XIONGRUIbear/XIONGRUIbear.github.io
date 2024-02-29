@@ -71,7 +71,8 @@ sections:
      view: compact
      view: showcase
      columns: '2'
-
+ 
+ 
   - block: accomplishments
     content:
       title: Funds & Awards
