@@ -47,15 +47,8 @@ sections:
     id: publications
     content:
       title: Publications
-      subtitle: 'Working paper'
-        filters:
-        folders:
-          - publication
-      subtitle: 'non'
-      items:
-      - text: |-
+      text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-
     design:
       columns: '2'
       view: citation
