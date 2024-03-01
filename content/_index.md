@@ -49,6 +49,7 @@ sections:
       title: Publications
       text: |-
              **Working Papers**
+
              **Xiong, R.**, & Sun, H. The Entrepreneurship Ecosystem Structure and its Impact on Entrepreneurship: A Sequential Exploration from Entrepreneurs’ Perspective. *Entrepreneurship Theory and Practice*. (Submitted).
 
              **Xiong, R.**, Sun, H., Zheng, S., Saleem, A., & Qiao, B. An Assessment Model of Cooperative Technology Transfer Project from University to Industry. *Mathematics*. (Under Review).
@@ -56,6 +57,7 @@ sections:
              **Xiong, R.**, Sun, H., Zhuang, J., & Liu, S. The Valuable Entrepreneurial Activities Equation:an entrepreneurs perspective to measure the Entrepreneurship Ecosystem. *Small Business Economics*. (Under Review).
 
              **Non First-Author Publications**
+
              Sun, H., Zhuang, J., & **Xiong, R.** (2022, September). [An Empirical Study of Entrepreneurial Intention and Youth Entrepreneurship Policy in Hong Kong](https://papers.academic-conferences.org/index.php/ecie/article/view/663). In *European Conference on Innovation and Entrepreneurship* (Vol. 17, No. 1, pp. 737-740).
 
              Zhuang, J., **Xiong, R.**, & Sun, H. (2022). [Impact of personality traits on start-up preparation of Hong Kong youths](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.994814/full). *Frontiers in Psychology*, 13, 994814.
@@ -63,6 +65,7 @@ sections:
              Liu, S., Sun, H., Zhuang, J., & **Xiong, R.** (2023). [The Impact of E-Learning Technologies on Entrepreneurial and Sustainability Performance](https://www.mdpi.com/2071-1050/15/21/15660). *Sustainability*, 15(21), 15660.
 
              **Presentations** 
+             
              ACIEK conference. Madrid, Spain. Jun, 2023.
     design:
       columns: '2'
