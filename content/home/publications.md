@@ -43,7 +43,7 @@ design:
 
 **Xiong, R.**, Sun, H., Zheng, S., Saleem, A., & Qiao, B. An Assessment Model of Cooperative Technology Transfer Project from University to Industry. Mathematics. (Under Review).
 
-Xiong, R., Sun, H., Zhuang, J., & Liu, S. The Valuable Entrepreneurial Activities Equation: an entrepreneurs perspective to measure the Entrepreneurship Ecosystem. Small Business Economics. (Under Review).
+**Xiong, R.**, Sun, H., Zhuang, J., & Liu, S. The Valuable Entrepreneurial Activities Equation: an entrepreneurs perspective to measure the Entrepreneurship Ecosystem. Small Business Economics. (Under Review).
 
 ### Non First-Author Publications
 

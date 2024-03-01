@@ -48,7 +48,14 @@ sections:
     content:
       title: Publications
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+             *Working Papers*
+
+             **Xiong, R.**, & Sun, H. The Entrepreneurship Ecosystem Structure and its Impact on Entrepreneurship:A Sequential Exploration from Entrepreneurs’ Perspective. Entrepreneurship Theory and Practice. (Submitted).
+
+             **Xiong, R.**, Sun, H., Zheng, S., Saleem, A., & Qiao, B. An Assessment Model of Cooperative Technology Transfer Project from University to Industry. Mathematics. (Under Review).
+
+             **Xiong, R.**, Sun, H., Zhuang, J., & Liu, S. The Valuable Entrepreneurial Activities Equation:an entrepreneurs perspective to measure the Entrepreneurship Ecosystem. Small Business Economics. (Under Review).
+
     design:
       columns: '2'
       view: citation
@@ -64,6 +71,19 @@ sections:
     design:
       columns: '2'
 
+  - block: markdown
+    id: section-1
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+
+  - block: markdown
+    id: section-2
+    content:
+      title: Section 2
+      subtitle: A subtitle
+      text: Add your Section 2 content here...
 
   - block: accomplishments
     id: awards
