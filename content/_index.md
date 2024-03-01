@@ -49,7 +49,7 @@ sections:
       title: Publications
       text: |-
              **Working Papers**
-             **Xiong, R.**, & Sun, H. The Entrepreneurship Ecosystem Structure and its Impact on Entrepreneurship:A Sequential Exploration from Entrepreneurs’ Perspective. Entrepreneurship Theory and Practice. (Submitted).
+             **Xiong, R.**, & Sun, H. The Entrepreneurship Ecosystem Structure and its Impact on Entrepreneurship: A Sequential Exploration from Entrepreneurs’ Perspective. Entrepreneurship Theory and Practice. (Submitted).
 
              **Xiong, R.**, Sun, H., Zheng, S., Saleem, A., & Qiao, B. An Assessment Model of Cooperative Technology Transfer Project from University to Industry. Mathematics. (Under Review).
 
@@ -66,16 +66,18 @@ sections:
              ACIEK conference. Madrid, Spain. Jun, 2023.
     design:
       columns: '2'
-      view: citation
 
   - block: collection
     id: teaching
     content:
       title: Teaching
-      filters:
-        folders:
-          - teaching
+        text: |-
+             **Teaching Assistant (TA) Experience**
+             ADSE6012 Technological Innovation and Entrepreneurship at City University of Hong Kong, 2024 Spring & 2023 Spring. Instructor: Prof. Hongyi SUN.
 
+             GE2304 Foundations of Innovation and Entrepreneurship at City University of Hong Kong, 2023 Fall. Instructor: Prof. Hongyi SUN.
+
+             GE2339 Smart City - a Systems Engineering Perspective at City University of Hong Kong, 2022 Fall. Instructor: Prof. Yingxia LIU.
     design:
       columns: '2'
 
