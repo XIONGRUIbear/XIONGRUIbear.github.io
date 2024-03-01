@@ -60,4 +60,4 @@ social:
 highlight_name: true
 ---
 
-XIONG Rui (中文: 熊睿) is a Ph.D. student in Entrepreneurship at City University of Hong Kong (CityU), under the supervision of Prof. SUN Hongyi. Before joining CityU, he earned his B.Eng. and B.Ec. from Xi'an Jiaotong University, and his M.Sc. from CityU. His research interests lie in the Entrepreneurship Ecosystem, Regional Economics, and Technology Transfer.
+XIONG Rui (中文: 熊睿) is a Ph.D. student in Entrepreneurship at City University of Hong Kong (CityU), under the supervision of [Prof. SUN Hongyi](https://www.cityu.edu.hk/sye/mehsun.htm). Before joining CityU, he earned his B.Eng. and B.Ec. from Xi'an Jiaotong University, and his M.Sc. from CityU. His research interests lie in the Entrepreneurship Ecosystem, Regional Economics, and Technology Transfer.
