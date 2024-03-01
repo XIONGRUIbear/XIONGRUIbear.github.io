@@ -47,14 +47,15 @@ sections:
     id: publications
     content:
       title: Publications
-      items:
-      - title: working
+      subtitle: Working paper
         filters:
         folders:
           - publication
-      - title: non
-        text: ssdasd
-
+      subtitle: non
+      items:
+      - text: |-
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        
     design:
       columns: '2'
       view: citation
