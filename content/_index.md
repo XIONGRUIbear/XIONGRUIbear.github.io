@@ -65,7 +65,7 @@ sections:
              Liu, S., Sun, H., Zhuang, J., & **Xiong, R.** (2023). [The Impact of E-Learning Technologies on Entrepreneurial and Sustainability Performance](https://www.mdpi.com/2071-1050/15/21/15660). *Sustainability*, 15(21), 15660.
 
              **Presentations** 
-             
+
              ACIEK conference. Madrid, Spain. Jun, 2023.
     design:
       columns: '2'
@@ -76,6 +76,7 @@ sections:
       title: Teaching
         text: |-
              **Teaching Assistant (TA) Experience**
+             
              - ADSE6012 Technological Innovation and Entrepreneurship at City University of Hong Kong, 2024 Spring & 2023 Spring. Instructor: Prof. Hongyi SUN.
 
              - GE2304 Foundations of Innovation and Entrepreneurship at City University of Hong Kong, 2023 Fall. Instructor: Prof. Hongyi SUN.
