@@ -50,13 +50,14 @@ sections:
       text: |-
              **Working Papers**
              
-             **Xiong, R.**, & Sun, H. The Entrepreneurship Ecosystem Structure and its Impact on Entrepreneurship: A Sequential Exploration from Entrepreneurs’ Perspective. *Entrepreneurship Theory and Practice*. (Submitted).
+             **Xiong, R.**, & Sun, H. Why Entrepreneurship Supporting Efforts Fail? A Voice from Entrepreneurs. (Preparing).
 
-             **Xiong, R.**, Sun, H., Zheng, S., Saleem, A., & Qiao, B. An Assessment Model of Cooperative Technology Transfer Project from University to Industry. *Mathematics*. (Under Review).
+             **Xiong, R.**, Sun, H., & Liu, S. Measuring and Monitoring the Entrepreneurship Ecosystem via the Valuable Entrepreneurial Activities Equation. *Journal of Technology Transfer*. (Submitted).
 
-             **Xiong, R.**, Sun, H., Zhuang, J., & Liu, S. The Valuable Entrepreneurial Activities Equation:an entrepreneurs perspective to measure the Entrepreneurship Ecosystem. *Small Business Economics*. (Under Review).
+             **Xiong, R.**, Sun, H., Zheng, S., & Liu, S. A Multi Criteria Assessment Model for Cooperative Technology Transfer Project from University to Industry. *Mathematics*. (Under Review).
 
-             **Non First-Author Publications**
+
+             **Co-Author Publications**
              
              Liu, S., Sun, H., Zhuang, J., & **Xiong, R.** (2023). [The Impact of E-Learning Technologies on Entrepreneurial and Sustainability Performance](https://www.mdpi.com/2071-1050/15/21/15660). *Sustainability*, 15(21), 15660.
 
