@@ -54,7 +54,7 @@ sections:
 
              **Xiong, R.**, Sun, H., & Liu, S. Measuring and Monitoring the Entrepreneurship Ecosystem via the Valuable Entrepreneurial Activities Equation. *Journal of Technology Transfer*. (Submitted).
 
-             **Xiong, R.**, Sun, H., Zheng, S., & Liu, S. A Multi Criteria Assessment Model for Cooperative Technology Transfer Project from University to Industry. *Mathematics*. (Under Review).
+             **Xiong, R.**, Sun, H., Zheng, S., & Liu, S. A Multi Criteria Assessment Model for Cooperative Technology Transfer Project from University to Industry. *Mathematics*. (Accepted).
 
 
              **Co-Author Publications**
