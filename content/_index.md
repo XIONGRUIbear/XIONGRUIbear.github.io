@@ -52,13 +52,11 @@ sections:
              
              **Xiong, R.**, & Sun, H. Why Entrepreneurship Supporting Efforts Fail? A Voice from Entrepreneurs. (Preparing).
 
-             **Xiong, R.**, Sun, H., & Liu, S. Measuring and Monitoring the Entrepreneurship Ecosystem via the Valuable Entrepreneurial Activities Equation. *Journal of Technology Transfer*. (Submitted).
-
-             **Xiong, R.**, Sun, H., Zheng, S., & Liu, S. A Multi Criteria Assessment Model for Cooperative Technology Transfer Project from University to Industry. *Mathematics*. (Accepted).
-
+             **Xiong, R.**, Sun, H., & Liu, S. Measuring and Monitoring the Entrepreneurship Ecosystem via the Valuable Entrepreneurial Activities Equation. (Preparing).
 
              **Co-Author Publications**
-             
+             **Xiong, R.**, Sun, H., Zheng, S., & Liu, S. (2024). [A Multi Criteria Assessment Model for Cooperative Technology Transfer Project from University to Industry](https://www.mdpi.com/2227-7390/12/12/1894). *Mathematics*, 12(12), 1894.
+        
              Liu, S., Sun, H., Zhuang, J., & **Xiong, R.** (2023). [The Impact of E-Learning Technologies on Entrepreneurial and Sustainability Performance](https://www.mdpi.com/2071-1050/15/21/15660). *Sustainability*, 15(21), 15660.
 
              Zhuang, J., **Xiong, R.**, & Sun, H. (2022). [Impact of personality traits on start-up preparation of Hong Kong youths](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.994814/full). *Frontiers in Psychology*, 13, 994814.

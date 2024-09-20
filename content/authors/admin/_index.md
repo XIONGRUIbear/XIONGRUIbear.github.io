@@ -29,9 +29,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Entrepreneurship
+    - course: Ph.D. in Systems Engineering
       institution: City University of Hong Kong
       year: 2021-2025
+    - course: Visiting Ph.D. student
+      institution: Universidad de Sevilla
+      year: Sep 2024-Jan 2025  
     - course: M.Sc. in Engineering Management
       institution: City University of Hong Kong
       year: 2020-2021
@@ -60,4 +63,4 @@ social:
 highlight_name: true
 ---
 
-XIONG Rui (中文: 熊睿) is a Ph.D. student in Entrepreneurship at [City University of Hong Kong (CityU)](https://www.cityu.edu.hk/), under the supervision of [Prof. SUN Hongyi](https://www.cityu.edu.hk/sye/mehsun.htm). Before joining CityU, he earned his B.Eng. and B.Ec. from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), and his M.Sc. from CityU. His research interests lie in the Entrepreneurship Ecosystem, Regional Economics, and Technology Transfer.
+XIONG Rui (中文: 熊睿) is a Ph.D. student in Systems Engineering at [City University of Hong Kong (CityU)](https://www.cityu.edu.hk/), under the supervision of [Prof. SUN Hongyi](https://www.cityu.edu.hk/sye/mehsun.htm). Before joining CityU, he earned his B.Eng. and B.Ec. from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), and his M.Sc. from CityU. His research interests lie in the Entrepreneurship Ecosystem, Regional Economics, and Technology Transfer.
