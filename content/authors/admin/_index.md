@@ -18,7 +18,7 @@ organizations:
     url: https://www.cityu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: XIONG Rui is a Ph.D. student in Entrepreneurship at City University of Hong Kong (CityU), under the supervision of Prof. SUN Hongyi. Before joining CityU, he earned his B.Eng. and B.Ec. from Xi'an Jiaotong University, and his M.Sc. from CityU. His research interests lie in the Entrepreneurship Ecosystem, Regional Economics, and Technology Transfer.
+bio: XIONG Rui is a Ph.D. student at City University of Hong Kong (CityU), under the supervision of Prof. SUN Hongyi. He was a visiting Ph.D. student in Entrepreneurship & Innovation research group at Universidad de Sevilla, under the supervision of Prof. Francisco Liñán. Before joining CityU, he earned his B.Eng. and B.Ec. from Xi'an Jiaotong University, and his M.Sc. from CityU. His research interests lie in the Entrepreneurship Ecosystem, Regional Economics, and Technology Transfer.
 
 # Interests to show in About widget
 interests:
@@ -63,4 +63,4 @@ social:
 highlight_name: true
 ---
 
-XIONG Rui (中文: 熊睿) is a Ph.D. student in Systems Engineering at [City University of Hong Kong (CityU)](https://www.cityu.edu.hk/), under the supervision of [Prof. SUN Hongyi](https://www.cityu.edu.hk/sye/mehsun.htm). Before joining CityU, he earned his B.Eng. and B.Ec. from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), and his M.Sc. from CityU. His research interests lie in the Entrepreneurship Ecosystem, Regional Economics, and Technology Transfer.
+XIONG Rui (中文: 熊睿) is a Ph.D. student in Systems Engineering at [City University of Hong Kong (CityU)](https://www.cityu.edu.hk/), under the supervision of [Prof. SUN Hongyi](https://www.cityu.edu.hk/sye/mehsun.htm). He was a visiting Ph.D. student in [Entrepreneurship & Innovation research group](https://grupo.us.es/entinn/) at [Universidad de Sevilla](https://www.us.es/), under the supervision of [Prof. Francisco Liñán](https://scholar.google.com/citations?user=oNUXi0UAAAAJ&hl=de). Before joining CityU, he earned his B.Eng. and B.Ec. from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), and his M.Sc. from CityU. His research interests lie in the Entrepreneurship Ecosystem, Regional Economics, and Technology Transfer.
