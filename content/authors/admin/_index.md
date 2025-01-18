@@ -38,7 +38,7 @@ education:
     - course: M.Sc. in Engineering Management
       institution: City University of Hong Kong
       year: 2020-2021
-    - course: B.Eng. & B.Ec. in Energy and Power Engineering & Finance
+    - course: B.Eng. in Energy and Power Engineerin & B.Ec. in Finance
       institution: Xi'an Jiaotong University
       year: 2016-2020
 
