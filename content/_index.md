@@ -60,6 +60,8 @@ sections:
 
              **Conference Paper**
 
+             **Xiong, R.**, Sun, H., Zhuang, J., & Liu, S. (2023). Decomposition of Valuable Entrepreneurial Activities along the Entrepreneurial Life Cycle: a vertical LMDI approach. Presented at ACIEK 2023, 21-23 June 2023, Madrid, Spain
+
              Sun, H., Zhuang, J., & **Xiong, R.** (2022, September). [An Empirical Study of Entrepreneurial Intention and Youth Entrepreneurship Policy in Hong Kong](https://papers.academic-conferences.org/index.php/ecie/article/view/663). In *European Conference on Innovation and Entrepreneurship* (Vol. 17, No. 1, pp. 737-740).
 
              **Working Papers**
@@ -69,10 +71,6 @@ sections:
              **Xiong, R.**, & Sun, H. Why Entrepreneurship Supporting Efforts Fail? A Voice from Entrepreneurs. (Preparing).
 
              **Xiong, R.**, & Sun, H. Who matters for new venture performance, entrepreneurs or entrepreneurial team? (Preparing).
-
-             **Presentations** 
-             
-             ACIEK conference. Madrid, Spain. Jun, 2023.
              
     design:
       columns: '2'
