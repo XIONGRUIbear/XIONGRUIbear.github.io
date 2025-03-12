@@ -18,7 +18,7 @@ organizations:
     url: https://www.cityu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: XIONG Rui is a Ph.D. student at City University of Hong Kong (CityU), under the supervision of Prof. SUN Hongyi. He was a visiting Ph.D. student in Entrepreneurship & Innovation research group at Universidad de Sevilla, under the supervision of Prof. Francisco Liñán. Before joining CityU, he earned his B.Eng. and B.Ec. from Xi'an Jiaotong University, and his M.Sc. from CityU. His research interests lie in the Entrepreneurship Ecosystem, Regional Economics, and Technology Transfer.
+bio: XIONG Rui is a Ph.D. student at City University of Hong Kong (CityU), under the supervision of Prof. SUN Hongyi. He was a visiting Ph.D. student in Entrepreneurship & Innovation research group at Universidad de Sevilla, adviced by Prof. Francisco Liñán. Before joining CityU, he earned his B.Eng. and B.Ec. from Xi'an Jiaotong University, and his M.Sc. from CityU. His research interests lie in the Entrepreneurship Ecosystem, Regional Economics, and Technology Transfer.
 
 # Interests to show in About widget
 interests:
