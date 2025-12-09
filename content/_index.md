@@ -95,7 +95,7 @@ sections:
     content:
       title: Projects
       text: |-
-             - A Policy Study along the Life-cycle of Hong Kong Youth Entrepreneurship 香港青年創業生命週期之政策研究, SPPR (Strategic Public Policy Research from SPPR-PICO of the Government 香港特別行政區行政署公共政策戰略性研究資助計劃), participant
+             - A Policy Study along the Life-cycle of Hong Kong Youth Entrepreneurship 香港青年創業生命週期之政策研究, SPPR (Strategic Public Policy Research from SPPR-PICO of the Government 香港特別行政區行政署公共政策戰略性研究資助計劃), participant.
 
     design:
       columns: '2'
