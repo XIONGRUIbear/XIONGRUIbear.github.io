@@ -13,8 +13,8 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 30
-  - name: Awards
-    url: '#awards'
+  - name: Projects
+    url: '#projects'
     weight: 40
   - name: Contact
     url: '#contact'
