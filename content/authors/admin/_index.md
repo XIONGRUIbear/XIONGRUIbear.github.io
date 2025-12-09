@@ -10,15 +10,15 @@ last_name: XIONG
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student at City University of Hong Kong
+role: Assistant Professor at Hainan Normal University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: City University of Hong Kong
-    url: https://www.cityu.edu.hk/
+  - name: Hainan Normal University
+    url: https://www.hainnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: XIONG Rui is a Ph.D. student at City University of Hong Kong (CityU), under the supervision of Prof. SUN Hongyi. He was a visiting Ph.D. student in Entrepreneurship & Innovation research group at Universidad de Sevilla, adviced by Prof. Francisco Liñán. Before joining CityU, he earned his B.Eng. and B.Ec. from Xi'an Jiaotong University, and his M.Sc. from CityU. His research interests lie in the Entrepreneurship Ecosystem, Regional Economics, and Technology Transfer.
+bio: XIONG Rui (熊睿) is an Assistant Professor at Hainan Normal University. He earned his Ph.D. from City University of Hong Kong (CityU), under the supervision of Prof. SUN Hongyi. He was a visiting Ph.D. student in Entrepreneurship & Innovation research group at Universidad de Sevilla, advised by Prof. Francisco Liñán. He earned his M.Sc. from CityU, and his B.Eng. and B.Ec. from Xi’an Jiaotong University. His research interests lie in the Entrepreneurship Ecosystem, Regional Economics, and Technology Transfer.
 
 # Interests to show in About widget
 interests:
@@ -63,4 +63,4 @@ social:
 highlight_name: true
 ---
 
-XIONG Rui (熊睿) is a Ph.D. student in Systems Engineering at [City University of Hong Kong (CityU)](https://www.cityu.edu.hk/), under the supervision of [Prof. SUN Hongyi](https://www.cityu.edu.hk/sye/mehsun.htm). He was a visiting Ph.D. student in [Entrepreneurship & Innovation research group](https://grupo.us.es/entinn/) at [Universidad de Sevilla](https://www.us.es/), adviced by [Prof. Francisco Liñán](https://scholar.google.com/citations?user=oNUXi0UAAAAJ&hl=de). Before joining CityU, he earned his B.Eng. and B.Ec. from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), and his M.Sc. from CityU. His research interests lie in the Entrepreneurship Ecosystem, Regional Economics, and Technology Transfer.
+XIONG Rui (熊睿) is an Assistant Professor at [Hainan Normal University](https://www.hainnu.edu.cn/). He earned his Ph.D. from [City University of Hong Kong (CityU)](https://www.cityu.edu.hk/), under the supervision of [Prof. SUN Hongyi](https://www.cityu.edu.hk/sye/mehsun.htm). He was a visiting Ph.D. student in [Entrepreneurship & Innovation research group](https://grupo.us.es/entinn/) at [Universidad de Sevilla](https://www.us.es/), advised by [Prof. Francisco Liñán](https://scholar.google.com/citations?user=oNUXi0UAAAAJ&hl=de). He earned his M.Sc. from CityU, and his B.Eng. and B.Ec. from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). His research interests lie in the Entrepreneurship Ecosystem, Regional Economics, and Technology Transfer.

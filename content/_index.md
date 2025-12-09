@@ -100,52 +100,16 @@ sections:
     design:
       columns: '2'
 
-  - block: accomplishments
-    id: awards
-    content:
-      title: Funds & Awards
-      subtitle:
-      date_format: Jan 2006
-      items:
-        - organization: City University of Hong Kong
-          date_start: '2020-11-01'
-          description: 'Scholarship for outstanding students'
-          title: MSEM Entrance Scholarship
-        - organization: Xi'an Jiaotong University
-          date_start: '2020-06-01'
-          description: 'Student award for outstanding graduates'
-          title: Outstanding Graduate Award
-        - organization: Geely Automobile Holdings Limited
-          date_start: '2019-11-01'
-          description: 'Fellowship for outstanding undergraduate students'
-          title: Geely first class Fellowship
-        - organization: Xi'an Jiaotong University
-          date_start: '2019-09-01'
-          title: Outstanding Student Award
-          description: 'Student award for outstanding students'
-        - organization: Xi'an Jiaotong University
-          date_start: '2018-04-01'
-          title: JiangDeming Scholarship
-          description: 'Scholarship for outstanding students'
-        - organization: Xi'an Jiaotong University
-          date_start: '2017-11-01'
-          title: Siyuan Scholarship
-          description: 'Scholarship for outstanding students'
-    design:
-      view: compact
-      columns: '2'
-
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
-      email: ruixiong2-c@my.cityu.edu.hk
-      phone: +852 96741822
+      email: xiongrui@hainnu.edu.cn
       address:
-        street: Tat Chee Avenue
-        city: Hong Kong
-        postcode: '999077'
+        street: No.3 Xiaoji First Road
+        city: Haikou
+        postcode: '571127'
         country: China
         country_code: CN
     design:
